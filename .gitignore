@@ -68,5 +68,4 @@ fastlane/readme.md
 node_modules/
 
 # expo
-.expo
-/
+.expo/
