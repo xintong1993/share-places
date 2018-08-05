@@ -1,0 +1,4 @@
+#Sat Aug 04 23:56:53 EDT 2018
+base.0=/Users/xintong/Documents/GitHub/share-plases/android/app/build/intermediates/transforms/dexMerger/debug/46
+path.0=classes.dex
+renamed.0=classes.dex
